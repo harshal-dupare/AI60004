@@ -1,0 +1,8 @@
+sam 15
+ram 25
+abir 20
+sam 30
+ram 25
+samir 30
+kamal 30
+abir 50

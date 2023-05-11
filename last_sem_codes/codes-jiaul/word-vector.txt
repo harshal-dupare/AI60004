@@ -1,0 +1,4 @@
+iit 0.5 0.3 0.6
+kgp 1.0 3.0 5.0
+technology 8.0 4.5 3.5
+graduate 1.5 3.5 2.4 

@@ -1,0 +1,4 @@
+iit 10
+kgp 15
+technology 5
+graduate 8
